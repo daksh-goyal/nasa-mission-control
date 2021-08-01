@@ -1,5 +1,11 @@
+.dockerignore
+Dockerfile
+LICENSE
+
 .git
+.gitignore
 
 server/public
+server/.env*
 
 */node_modules
